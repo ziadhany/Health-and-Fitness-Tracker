@@ -1,0 +1,6 @@
+[submodule "Health-and-Fitness-Tracker-backend"]
+	path = Health-and-Fitness-Tracker-backend
+	url = https://github.com/ziadhany/Health-and-Fitness-Tracker-backend
+[submodule "Health-and-Fitness-Tracker-frontend"]
+	path = Health-and-Fitness-Tracker-frontend
+	url = https://github.com/ziadhany/Health-and-Fitness-Tracker-frontend
